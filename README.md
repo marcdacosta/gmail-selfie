@@ -15,7 +15,7 @@ IMPORTANT: This tool doesn't support two-factor authorization and is wildly inse
 ### Instructions
   - Update the following variables with your information  
   `scrape.js/GMAIL-LOGIN`  
-  `scrape.js/GMAIL-PWD` 
+  `scrape.js/GMAIL-PWD`  
   `gmail-selfie.js/aws_accessKeyId`  
   `gmail-selfie.js/aws_secretAccessKey`  
   `gmail-selfie.js/aws_s3bucket`
