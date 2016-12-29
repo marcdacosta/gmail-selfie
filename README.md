@@ -3,7 +3,7 @@ Gmail Selfie is a tool for producing a personal archive of your gmail experience
 
 IMPORTANT: This tool doesn't support two-factor authorization and is wildly insecure unless used responsibly.
 
-![gmail-selfie](https://dl.dropboxusercontent.com/content_link/bgxODsCavTdlm5nEgDQC3LTLHEtOPQHUlYq4EYO7pSwg0OXxmbo1KGuHa1dXjhwO/file?raw=1&dl=0&duc_id=BpeDeCsEzBSi1tktpi3ItqfceSAPPlv1v9dLHhLd9MT8QrHrmt6UziVTAHocIbSB&size=2048x1536&size_mode=3)
+![gmail-selfie](https://marcdacosta.github.io/gmail-selfie-2.gif)
 
 ### Requirements
 - `node-js` runtime
